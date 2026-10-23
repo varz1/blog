@@ -111,3 +111,7 @@ endLevel = 4
 # blog = "/p/:slug"
 posts = "/posts/:year/:contentbasename"
 # tags = "/blog/:slug"
+
+[params.author]
+name = "Li"
+email = ""
