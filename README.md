@@ -25,3 +25,13 @@ hugo
 hugo serve
 ```
 
+
+## Deploy
+
+Pushing to `main` publishes the site automatically; there is nothing to run by hand.
+
+```bash
+git add -A
+git commit -m "post: ..."
+git push
+```
