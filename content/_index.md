@@ -2,6 +2,8 @@
 title: "README"
 ---
 
+[Resume](/resume/)
+
 What I'm Doing:
 
 - Working Holiday In Australia
